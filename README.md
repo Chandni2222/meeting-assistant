@@ -67,20 +67,6 @@ Tell us about you.
 
 <hr>
 
-### About Me
-
-
-Inquisitive and risk-taker by nature, I have always undertaken projects that are technical, relatable, innovative and fun at the same time. After my graduation in 2018, I had started working on indoor navigation and founded Mapin Co. which can be found at https://www.mapin.app.
-
-Along with understanding the nuances of business, I have been actively developing the technical side ranging from working Backend and Server Side to mobile application development solely.
-
-There are some of the application which can be found here.
-
-- **MapIn - Indoor Navigation & Deals**
-
-An application to navigate indoors particulary malls. I have designed the backend architecture and developed the application solely. We were successful in incorporating one of the largest mall of Pakistan. 
-
-  *https://play.google.com/store/apps/details?id=app.mapin.mapin*
 
   
 - **MapIn Events**
